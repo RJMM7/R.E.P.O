@@ -1,0 +1,1 @@
+// Simulates an authentication system with a username and password, allowing up to 3 attempts.
