@@ -1,0 +1,1 @@
+// Ask for a number from 1 to 7 and print the corresponding day of the week (1 = Monday, 2 = Tuesday, etc.).
