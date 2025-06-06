@@ -1,0 +1,2 @@
+6. Clasificación de Vehículos
+Solicita un tipo de vehículo (Coche, Moto, Bicicleta, etc.) e imprime una descripción.
