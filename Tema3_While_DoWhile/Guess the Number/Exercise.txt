@@ -1,0 +1,2 @@
+3. Adivina el Número
+Genera un número aleatorio entre 1 y 100. El usuario debe adivinarlo, y el programa debe indicar si el número es mayor o menor hasta que lo acierte.
