@@ -1,0 +1,2 @@
+1. Contador del 1 al 10
+Utilizando un ciclo while, imprime los números del 1 al 10.
