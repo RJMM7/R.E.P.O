@@ -7,8 +7,9 @@ int main () {
     // Variable a usar
     string message;
 
-    ofstream file; // Se llama la funcion ofstream y se le asigna un nombre al archivo
-    file.open("message.txt", ios::app); // Se manda a llamar el archivo que creamos, luego llamamos la funcion .open() y entre comillas va el nombre del archivo que se quiere crear, seguido del tipo de extension que sera el archivo. El ios:app sirve para agregar mas texto sin borrar lo que ya existe
+    ofstream file; // ofstream se inicia con el nombre del archivo
+    
+    file.open("message.txt", ios::app); // abre el archivo y entre comillas va el nombre del archivo que se quiere crear, seguido del tipo de extension que sera el archivo. El ios:app sirve para agregar mas texto sin borrar lo que ya existe
 
     cout << "===============================================" << endl;
     cout << "Por favor ingrese cualquier mensaje que quiera: ";
