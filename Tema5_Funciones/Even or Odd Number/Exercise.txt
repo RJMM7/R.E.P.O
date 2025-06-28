@@ -1,0 +1,2 @@
+3. Número Par o Impar
+Escribe una función que reciba un número y devuelva true si es par o false si es impar.
